@@ -1,5 +1,5 @@
-# Awesome
+# This is a new markdown file
 
-This is a new file. You can create these now!
+You can create any type of file!!
 
-Look. I'm editing this thing!
+Yay!

@@ -7,6 +7,12 @@ Description
 A C# client for the GitHub REST API.
 
 
+- [X] Hello
+- [ ] All Done
+- [ ] Almost Done
+- [X] Cool!
+
+
 License
 ----------------
 
